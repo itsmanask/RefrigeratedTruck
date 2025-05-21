@@ -66,6 +66,8 @@ This project implements a microcontroller-based system that keeps the internal t
 4. Displays live data on OLED (unless temp is stable).
 5. Alerts user with buzzer if above 11°C.
 
+Demo Video: https://www.youtube.com/watch?v=KpXQiDIcKAY
+
 ---
 
 ## 📝 Documentation
